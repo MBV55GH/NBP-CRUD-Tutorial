@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.shop.editor">
+    <module_version install_time="1450163261703" last="true" origin="installer" specification_version="1.0">
+        <file crc="147738841" name="config/Modules/org-shop-editor.xml"/>
+        <file crc="3002687157" name="modules/ext/eclipselink.jar"/>
+        <file crc="3486043091" name="modules/ext/javax.persistence_2.1.0.v201304241213.jar"/>
+        <file crc="3119286176" name="modules/ext/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar"/>
+        <file crc="1134407618" name="modules/org-shop-editor.jar"/>
+    </module_version>
+</module>

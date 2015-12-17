@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0.2\platform=1446454453261
+cluster.D:/My NetBeans/MBV_NBProjects/DBManager/build/cluster=1450163262156
+cluster.C:/Program Files/NetBeans 8.0.2/platform=1446454453261
+user=1450163262156
+crc=7
+locale=en_US
+branding=dbmanager
+java.version=1.8.0_65
+java.vm.version=25.65-b01
