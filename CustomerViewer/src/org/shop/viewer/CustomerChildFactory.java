@@ -7,7 +7,7 @@ package org.shop.viewer;
 
 /**
  *
- * @author Malkov
+ * @author Malkov B.
  */
 
 import demo.Customer;
